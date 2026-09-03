@@ -67,7 +67,7 @@
     "@semantic-release/git": "10.0.1",
     "@stryker-mutator/core": "9.6.1",
     "@stryker-mutator/vitest-runner": "9.6.1",
-    "@testing-library/react": "16.3.2",
+    "@testing-library/react": "16.3.3",
     "@trivago/prettier-plugin-sort-imports": "6.0.2",
     "@types/node": "24.13.3",
     "@types/react": "19.2.18",
